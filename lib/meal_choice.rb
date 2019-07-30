@@ -1,1 +1,3 @@
-# Your code here
+def meal_choice()
+  puts "What a nutritious meal!"
+  end
